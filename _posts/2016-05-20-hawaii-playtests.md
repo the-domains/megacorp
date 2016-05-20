@@ -1,6 +1,6 @@
 ---
-dateModified: '2016-05-20T06:18:08.813Z'
-datePublished: '2016-05-20T06:18:59.343Z'
+dateModified: '2016-05-20T06:24:02.259Z'
+datePublished: '2016-05-20T06:25:44.377Z'
 description: 'The playtests held in Honolulu Hawaii with a small group of testers revealed that the core game rules were robust!'
 inFeed: true
 title: Hawaii playtests
