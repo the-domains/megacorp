@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Megacorp]]></title>
+        <description><![CDATA[Megacorp]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 20 May 2016 03:04:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What is Megacorp? </p>]]></description>
+            <link>undefinedwhat-is-megacorp/index.html</link>
+            <guid isPermaLink="false">e0db67a1-9556-403c-b2da-558f3116851e</guid>
+            <pubDate>Fri, 20 May 2016 03:04:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
