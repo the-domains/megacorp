@@ -4,8 +4,15 @@
         <description><![CDATA[Megacorp Trading Card Game]]></description>
         <link>https://thegrid.ai/megacorp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 03:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 06:25:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/megacorp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Megacorp collaterals]]></title>
+            <description><![CDATA[<article><h1>Megacorp collaterals</h1><p>Cloth banner and tablecloth design</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05304178-523f-412c-91f5-7e926c33b2c9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/megacorp/88672a1a-73f0-4e9d-9731-f36a7d584488/index.html</link>
+            <guid isPermaLink="false">88672a1a-73f0-4e9d-9731-f36a7d584488</guid>
+            <pubDate>Fri, 20 May 2016 06:25:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3e9ef57-1b42-4510-a019-9fbb7cf6c6b0.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/megacorp/what-is-megacorp/index.html</link>
             <guid isPermaLink="false">e0db67a1-9556-403c-b2da-558f3116851e</guid>
             <pubDate>Fri, 20 May 2016 03:29:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Megacorp collaterals]]></title>
-            <description><![CDATA[<article><h1>Megacorp collaterals</h1><p>Cloth banner and tablecloth design</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05304178-523f-412c-91f5-7e926c33b2c9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/megacorp/88672a1a-73f0-4e9d-9731-f36a7d584488/index.html</link>
-            <guid isPermaLink="false">88672a1a-73f0-4e9d-9731-f36a7d584488</guid>
-            <pubDate>Fri, 20 May 2016 03:24:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
