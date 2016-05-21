@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-21T10:13:56.209Z'
-dateModified: '2016-05-21T10:11:17.742Z'
+datePublished: '2016-05-21T10:15:27.277Z'
+dateModified: '2016-05-21T10:15:20.849Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-honolulu-playtesters.md
@@ -25,5 +25,5 @@ This playtest session, running parallel to Toylynx's own friday night activities
 Playtesters suggested that our prototype cards were too squarish and we might want to consider 'hexagonal' corners as opposed to the usual small round corners prevalent among most TCGs.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ee4b9f6-13db-445c-9830-578fb492c40e.jpg)
 
-Sharon Hioki was a terrifically enthusiastic contributor- she plays only Vanguard and cited that the learning curve of the game was not unapproachable. ![Ian Brodo, one of the original Hawaiian playtesters](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2a45f92-db6f-4250-a82d-ad0d41123377.jpg)
+Sharon Hioki was a terrifically enthusiastic contributor- she plays only VangM
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51e25f98-e6dc-47ac-b093-2d5d21aa7424.jpg)
