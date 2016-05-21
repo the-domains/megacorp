@@ -4,7 +4,7 @@
         <description><![CDATA[Megacorp Trading Card Game]]></description>
         <link>https://thegrid.ai/megacorp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 10:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 10:29:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/megacorp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is Megacorp]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Sat, 21 May 2016 10:29:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[First appearance in USA]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3e9ef57-1b42-4510-a019-9fbb7cf6c6b0.jpg">]]></description>
+            <link>https://thegrid.ai/megacorp/f9f0d92c-edff-466e-b062-e4262feddcc6/index.html</link>
+            <guid isPermaLink="false">f9f0d92c-edff-466e-b062-e4262feddcc6</guid>
+            <pubDate>Sat, 21 May 2016 10:29:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Megacorp collaterals]]></title>
             <description><![CDATA[<article><h1>Megacorp collaterals</h1><p>Cloth banner and tablecloth design</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05304178-523f-412c-91f5-7e926c33b2c9.jpg"></article>]]></description>
             <link>https://thegrid.ai/megacorp/88672a1a-73f0-4e9d-9731-f36a7d584488/index.html</link>
             <guid isPermaLink="false">88672a1a-73f0-4e9d-9731-f36a7d584488</guid>
             <pubDate>Fri, 20 May 2016 06:25:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3e9ef57-1b42-4510-a019-9fbb7cf6c6b0.jpg">]]></description>
-            <link>https://thegrid.ai/megacorp/f9f0d92c-edff-466e-b062-e4262feddcc6/index.html</link>
-            <guid isPermaLink="false">f9f0d92c-edff-466e-b062-e4262feddcc6</guid>
-            <pubDate>Fri, 20 May 2016 03:43:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
