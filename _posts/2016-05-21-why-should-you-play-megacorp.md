@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Hardcore CCG fans - this is the game you want to play.
-datePublished: '2016-05-21T11:03:06.210Z'
-dateModified: '2016-05-21T11:02:51.267Z'
+datePublished: '2016-05-21T11:08:48.689Z'
+dateModified: '2016-05-21T11:03:09.063Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-why-should-you-play-megacorp.md
