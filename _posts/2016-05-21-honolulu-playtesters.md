@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-21T10:15:27.277Z'
-dateModified: '2016-05-21T10:15:20.849Z'
+datePublished: '2016-05-21T10:29:39.827Z'
+dateModified: '2016-05-21T10:17:53.217Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-honolulu-playtesters.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: honolulu-playtesters/index.html
 _type: WebPage
 
