@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-21T10:29:39.827Z'
-dateModified: '2016-05-21T10:17:53.217Z'
+datePublished: '2016-05-21T10:37:03.327Z'
+dateModified: '2016-05-21T10:36:27.741Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-honolulu-playtesters.md
