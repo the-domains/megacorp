@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-21T10:37:03.327Z'
-dateModified: '2016-05-21T10:36:27.741Z'
+datePublished: '2016-05-21T10:39:42.602Z'
+dateModified: '2016-05-21T10:39:29.052Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-honolulu-playtesters.md
@@ -14,7 +14,7 @@ authors: []
 publisher: null
 starred: true
 url: honolulu-playtesters/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8561bd52-74fd-4f0a-a723-3d3903f09cca.jpg)
