@@ -1,24 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: Why should you play Megacorp
-datePublished: '2016-05-21T10:57:53.809Z'
-dateModified: '2016-05-21T10:57:51.575Z'
+description: Hardcore CCG fans - this is the game you want to play.
+datePublished: '2016-05-21T10:58:59.287Z'
+dateModified: '2016-05-21T10:58:52.914Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-21-why-should-you-play-megacorp.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-21-why-should-you-play-megacorp.md
 url: why-should-you-play-megacorp/index.html
 _type: Article
 
 ---
-Why should you play Megacorp
-
 1. Finally: **An Exciting Science fiction setting **- most TCGs (Trading Card Games) are usually part of the Fantasy genre.
 2. **More interactive than other Trading Card titles** - players can use cards from the discard pile and even from opponents networks when card are vulnerable in an upside down "engaged" state.
 3. **Simpler rules: **No hand maximum size, no "summon sickness" - cards can be activated to produce trait resources or attack immediately, all event cards are instant-speed. Makes it easier to focus on the action, and less on the rules.
