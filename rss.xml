@@ -4,7 +4,7 @@
         <description><![CDATA[Megacorp Trading Card Game]]></description>
         <link>https://thegrid.ai/megacorp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 10:45:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 10:58:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/megacorp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is Megacorp]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/megacorp/honolulu-playtesters/index.html</link>
             <guid isPermaLink="false">7aa44776-f698-406b-a1c4-2de9160aacbe</guid>
             <pubDate>Sat, 21 May 2016 10:39:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Why should you play Megacorp</p>]]></description>
+            <link>https://thegrid.ai/megacorp/why-should-you-play-megacorp/index.html</link>
+            <guid isPermaLink="false">46142dcc-459c-4007-9583-4dfc86a3a716</guid>
+            <pubDate>Sat, 21 May 2016 10:57:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Play]]></title>
