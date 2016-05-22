@@ -1,16 +1,18 @@
 ---
-authors: []
-dateModified: '2016-05-21T11:34:22.597Z'
-datePublished: '2016-05-22T20:05:29.688Z'
-description: ''
-hasPage: true
 inFeed: true
+hasPage: true
 inNav: true
+inLanguage: null
 keywords: []
+description: ''
+datePublished: '2016-05-22T20:32:13.661Z'
+dateModified: '2016-05-22T20:32:01.621Z'
 title: Why Megacorp
 author: []
-starred: false
 sourcePath: _posts/2016-05-21-why-should-you-play-megacorp.md
+authors: []
+publisher: null
+starred: false
 url: why-should-you-play-megacorp/index.html
 _type: Article
 
@@ -18,7 +20,7 @@ _type: Article
 # Why Megacorp
 
 1. Finally: **An Exciting Science fiction setting **- most TCGs (Trading Card Games) are usually part of the Fantasy genre.**More interactive than other Trading Card titles** - players can use cards from the discard pile and even from opponents networks when card are vulnerable in an upside down "engaged" state.
-2. **Simpler rules: **No hand maximum size, no "summon sickness" - cards can be activated to produce trait resources or attack immediately, all event cards are instant-speed. Makes it easier to focus on the action, and less on the rules.
+2. **Simpler rules: **No hand maximum size, no "summoning sickness" - cards can be activated to produce trait resources or attack immediately, all event cards are instant-speed. This makes it easier to focus on the action, and less on the rules.
 3. **Dedicated resource side-deck**, plus every card produces trait resource, your primary business card is also the ultimate 'manafix'.
 4. Resource cards also passively produce "cashflow" each turn without having to be manipulated.
 
