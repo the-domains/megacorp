@@ -1,19 +1,19 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T20:25:00.690Z'
-dateModified: '2016-05-22T20:24:37.154Z'
+datePublished: '2016-05-22T20:31:02.496Z'
+dateModified: '2016-05-22T20:29:10.742Z'
 title: Community development thoughts
 author: []
+sourcePath: _posts/2016-05-22-community-development-thoughts.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-22-community-development-thoughts.md
+url: community-development-thoughts/index.html
 _context: 'http://schema.org'
 _type: Article
 
