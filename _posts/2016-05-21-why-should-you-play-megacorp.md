@@ -1,7 +1,7 @@
 ---
 authors: []
-dateModified: '2016-05-21T11:33:34.551Z'
-datePublished: '2016-05-21T11:33:43.006Z'
+dateModified: '2016-05-21T11:34:22.597Z'
+datePublished: '2016-05-22T20:05:29.688Z'
 description: ''
 hasPage: true
 inFeed: true
@@ -28,4 +28,4 @@ _type: Article
 2. **Multiple modality:** play as a tabletop boardgame and Deckbuilding game in addition to its principal TCG mode. Versatile enough to handle even 4v4 and 9v9 multiple player games!
 3. **More skill, less luck: **Card advantage andbuilt-in search mechanisms are accessible from the very first game
 
-Hardcore CCG fans - this is the game you want to play.
+1. Hardcore CCG fans - this is the game you want to play.
