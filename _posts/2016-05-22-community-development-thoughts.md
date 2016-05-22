@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T20:37:01.488Z'
-dateModified: '2016-05-22T20:36:59.307Z'
+datePublished: '2016-05-22T20:37:21.323Z'
+dateModified: '2016-05-22T20:37:12.227Z'
 title: Community development thoughts
 author: []
 sourcePath: _posts/2016-05-22-community-development-thoughts.md
