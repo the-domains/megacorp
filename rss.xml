@@ -4,7 +4,7 @@
         <description><![CDATA[Megacorp Trading Card Game]]></description>
         <link>https://thegrid.ai/megacorp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 20:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 22:52:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/megacorp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is Megacorp]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/megacorp/honolulu-playtesters/index.html</link>
             <guid isPermaLink="false">7aa44776-f698-406b-a1c4-2de9160aacbe</guid>
             <pubDate>Sat, 21 May 2016 10:39:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Security Check]]></title>
+            <description><![CDATA[<article><h1>Security Check</h1><p></p></article>]]></description>
+            <link>https://m.facebook.com/megacorpccg/</link>
+            <guid isPermaLink="false">0343380f-f267-4257-aca9-857c4d05113b</guid>
+            <pubDate>Mon, 23 May 2016 22:51:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Community development thoughts]]></title>
