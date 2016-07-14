@@ -1,23 +1,22 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: "Megacorp is a trading card game set in the dark post-capitalist era of mankind's colonization of the galaxy."
-datePublished: '2016-05-21T11:09:03.476Z'
-dateModified: '2016-05-21T11:07:18.095Z'
-title: What is Megacorp
 author: []
-sourcePath: _posts/2016-05-20-what-is-megacorp.md
-authors: []
-publisher: null
+dateModified: '2016-07-14T04:12:32.266Z'
+datePublished: '2016-07-14T04:12:45.076Z'
+description: >-
+  Megacorp is a trading card game set in the dark post-capitalist era of
+  mankind's colonization of the galaxy.
+hasPage: true
+inFeed: true
+inNav: false
+keywords: []
+title: What is Megacorp
 starred: true
+sourcePath: _posts/2016-05-20-what-is-megacorp.md
 url: what-is-megacorp/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/921ba29f-f8c6-49c2-99cf-8c62173d12d3.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc150e32-e6d4-4a5e-a520-05348ba4abe8.jpg)
 
 Megacorp is a trading card game set in the dark post-capitalist era of mankind's colonization of the galaxy.
 
