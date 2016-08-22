@@ -1,20 +1,4 @@
-name: Megacorp
-favicon: null
-layout_spectrum: 0.69207
 typography_spectrum: 0.6020632199943066
-title: Megacorp Trading Card Game
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -26,4 +10,25 @@ color:
   lightness: 0.25
   saturation: 0.6875
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.69207
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Megacorp
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Back our Kickstarter Campaign!
+    url: >-
+      https://www.kickstarter.com/projects/megacorp/megacorp-the-cyberpunk-business-trading-card-game
+    type: external
+favicon: null
+title: Megacorp Trading Card Game
 purpose: []
